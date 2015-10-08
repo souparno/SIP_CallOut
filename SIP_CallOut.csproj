@@ -47,7 +47,7 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="LumiSoft.Net">
-      <HintPath>..\LumiSoft.Net\Net\bin\Debug\LumiSoft.Net.dll</HintPath>
+      <HintPath>References\LumiSoft.Net.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
